@@ -20,7 +20,7 @@ cat << "EOF"
                                                                                                                                                                           
 
                  Instalador Automático do Fastfetch (v2.18.0)
-                           Feito por Apolinário
+                           Feito por Apolinario20
 EOF
 
 echo ""
@@ -62,7 +62,7 @@ echo ""
 echo "==========================================="
 echo "   ✅ Fastfetch v2.18.0 instalado com sucesso!"
 echo "   🎉 Compatível com Debian 11"
-echo "   🔥 Script feito por Apolinário"
+echo "   🔥 Script feito por Apolinario20"
 echo "==========================================="
 echo ""
 fastfetch
