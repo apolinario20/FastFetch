@@ -5,7 +5,7 @@ clear
 # ==============================
 #  INSTALADOR AUTOMÁTICO DO FASTFETCH
 #  Versão compatível com Debian 11
-#  Feito por Apolinário
+#  Feito por Apolinario20
 # ==============================
 
 # Arte ASCII
