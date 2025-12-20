@@ -4,7 +4,7 @@ clear
 
 # ==============================
 #  INSTALADOR AUTOMÁTICO DO FASTFETCH
-#  Feito por Apolinário
+#  Feito por Apolinario20
 # ==============================
 
 # Arte ASCII
@@ -19,7 +19,7 @@ cat << "EOF"
                                                                                                                                                                           
 
                          Instalador Automático do Fastfetch
-                               Feito por Apolinário
+                               Feito por Apolinario20
 EOF
 
 echo ""
@@ -69,7 +69,7 @@ echo ""
 echo "==========================================="
 echo "   ✅ Fastfetch instalado com sucesso!"
 echo "   🎉 Aproveite a ferramenta de informações!"
-echo "   🔥 Script feito por Apolinário"
+echo "   🔥 Script feito por Apolinario20"
 echo "==========================================="
 echo ""
 fastfetch
